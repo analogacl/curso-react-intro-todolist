@@ -1,4 +1,6 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Mi primer curso de React - Daniel Signorelli
+
+### Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
 
