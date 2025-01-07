@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-react-intro-todolist/static/css/main.38954012.css",
+    "main.js": "/curso-react-intro-todolist/static/js/main.480215d1.js",
+    "index.html": "/curso-react-intro-todolist/index.html",
+    "main.38954012.css.map": "/curso-react-intro-todolist/static/css/main.38954012.css.map",
+    "main.480215d1.js.map": "/curso-react-intro-todolist/static/js/main.480215d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38954012.css",
+    "static/js/main.480215d1.js"
+  ]
+}
