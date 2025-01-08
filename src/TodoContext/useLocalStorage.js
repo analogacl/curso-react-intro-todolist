@@ -44,13 +44,14 @@ function useLocalStorage(itemName, initialValue) {
 export { useLocalStorage };
 
 
-  // const defaultTodos = [
-  //   { text: 'Una tarea por completar 1 ', completed: false},
-  //   { text: 'Segunda tarea por completar 2', completed: true},
-  //   { text: '3ra tarea por completar 3', completed: true},
-  //   { text: 'IV tarea por completar 4', completed: false},
-  //   { text: 'V tarea por completar 2', completed: true},
+  const defaultTodos = [
+    { text: 'Una tarea por completar 1 ', completed: false},
+    { text: 'Segunda tarea por completar 2', completed: true},
+    { text: '3ra tarea por completar 3', completed: true},
+    { text: 'IV tarea por completar 4', completed: false},
+    { text: 'V tarea por completar 2', completed: true},
    
-  //  ]
-  //  localStorage.setItem('TODOS_V1', JSON.stringify(defaultTodos));
+   ]
+   localStorage.setItem('TODOS_V1', JSON.stringify(defaultTodos));
    
+  
